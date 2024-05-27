@@ -1,0 +1,15 @@
+.component5-container {
+  display: flex;
+  position: relative;
+}
+.component5-button {
+  width: 100%;
+}
+.component5-root-class-name {
+  left: 0px;
+  right: 0px;
+  bottom: 72px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+}

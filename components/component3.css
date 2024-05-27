@@ -1,0 +1,22 @@
+.component3-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: row;
+}
+.component3-text {
+  font-size: 1.15rem;
+  margin-top: var(--dl-space-space-twounits);
+  font-weight: 300;
+}
+.component3-basic-plan-pricing {
+  font-size: 4rem;
+  font-weight: 700;
+}
+.component3-text3 {
+  font-size: 1.15rem;
+  font-style: normal;
+  margin-top: var(--dl-space-space-twounits);
+  font-weight: 300;
+}

@@ -1,0 +1,11 @@
+.component6-container {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.component6-text {
+  text-transform: uppercase;
+}

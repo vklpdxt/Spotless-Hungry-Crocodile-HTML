@@ -1,0 +1,15 @@
+.button-container {
+  display: flex;
+  position: relative;
+}
+.button-button {
+  width: 100%;
+}
+.button-root-class-name {
+  left: 0px;
+  right: 0px;
+  bottom: 70px;
+  margin: auto;
+  position: absolute;
+  align-self: stretch;
+}

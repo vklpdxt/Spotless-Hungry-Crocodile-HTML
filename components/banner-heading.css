@@ -1,0 +1,7 @@
+.banner-heading-container {
+  display: flex;
+  position: relative;
+}
+.banner-heading-banner-heading {
+  text-align: center;
+}

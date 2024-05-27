@@ -1,0 +1,12 @@
+.free-plan-price-container {
+  display: flex;
+  position: relative;
+}
+.free-plan-price-free-plan-price {
+  color: rgb(25, 24, 24);
+  width: auto;
+  font-size: 2rem;
+  align-self: stretch;
+  font-style: normal;
+  font-weight: 700;
+}

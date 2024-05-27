@@ -1,0 +1,8 @@
+.basic-plan-pricing-container {
+  display: flex;
+  position: relative;
+}
+.basic-plan-pricing-basic-plan-pricing {
+  font-size: 2rem;
+  font-weight: 700;
+}

@@ -1,0 +1,63 @@
+.component4-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-threeunits);
+  flex-direction: column;
+}
+.component4-container1 {
+  gap: 4px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+}
+.component4-text {
+  line-height: 150%;
+}
+.component4-container2 {
+  gap: 4px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+}
+.component4-text2 {
+  line-height: 150%;
+}
+.component4-container3 {
+  gap: 4px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+}
+.component4-text3 {
+  line-height: 150%;
+}
+.component4-container4 {
+  gap: 4px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+}
+.component4-text4 {
+  line-height: 150%;
+}
+.component4-container5 {
+  gap: 4px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+}
+.component4-text5 {
+  line-height: 150%;
+}
